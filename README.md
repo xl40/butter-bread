@@ -6,6 +6,8 @@ https://yarn.bootcss.com/docs/usage/
 ```
 初始化一个新项目   yarn init
 安装项目的全部依赖  yarn
+将依赖项添加到不同依赖项类别中 yarn add nodemon --dev
+
 ```
 
 ###### package.json 的文件结构
